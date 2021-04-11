@@ -16,7 +16,6 @@
 ![6](https://user-images.githubusercontent.com/56523254/114296993-6a2ed680-9ad8-11eb-8622-9f73ed31c0f7.png)
 ![7](https://user-images.githubusercontent.com/56523254/114297039-964a5780-9ad8-11eb-90bf-5d56c55c04e8.png)
 # Output
-![7](https://user-images.githubusercontent.com/56523254/114297039-964a5780-9ad8-11eb-90bf-5d56c55c04e8.png)
 
 # Cara Membuat List Box Option Select
 # Input
